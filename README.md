@@ -21,7 +21,14 @@ Welcome to the Django Celery Email Sender repository. This project simplifies th
    ```bash
    git clone (https://github.com/PyDev-QasimTahir/Sending-mails-using-Django-and-Celery.git)
 
-   
+
+
+
+Here is the main index.html file while you're running the server:-   
 ![image](https://github.com/PyDev-QasimTahir/Sending-mails-using-Django-and-Celery/assets/123900659/624fa06c-65c8-478e-ab71-684b994b9569)
+
+This is how you receive mail in your email account.
 ![image](https://github.com/PyDev-QasimTahir/Sending-mails-using-Django-and-Celery/assets/123900659/43e9c698-e069-4705-a351-1e807be4921e)
+
+This is the actual message that is shown to the customer
 ![Screenshot 2023-10-06 142514](https://github.com/PyDev-QasimTahir/Sending-mails-using-Django-and-Celery/assets/123900659/79647678-8114-4eaa-9099-b8dc29344121)
