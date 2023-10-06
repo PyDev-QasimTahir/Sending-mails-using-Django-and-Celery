@@ -1,0 +1,13 @@
+Hello {{name|safe}},
+
+Thank you for taking the time to visit our office. We truly appreciate your presence.
+
+Here is a copy of your review:
+{{review|safe}}
+
+Your feedback is invaluable to us, and it helps us serve you better. If you have any further comments or suggestions, please don't hesitate to share.
+
+Once again, thank you for choosing us.
+
+Best regards,
+Qasim Tahir

@@ -1,0 +1,26 @@
+                                    <-----------Command Reference----------->
+
+
+# Install celery
+    pip instal django==3.1
+    pip install celery==4.4.7
+    pip install redis
+    pip install rabbitmq
+
+#Install RabbitMQ (Ubuntu Linux 20.04LTS)
+    sudo apt-get install rabbitmq-server
+
+# Run Celery 
+    [Ubunto]
+    celery -A MailCelery worker --loglevel=info 
+
+    [Windows OS]
+    celery -A MailCelery worker -l info --pool=solo
+
+Run:
+C:\Program Files\RabbitMQ Server\rabbitmq_server-3.8.6\sbin\rabbitmq-server.bat
+
+
+#Useful commands
+    #Show message on completion of task
+        logger.info("Sent review email")
